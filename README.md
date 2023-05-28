@@ -13,7 +13,7 @@
 1. Your hand value exceeds 21.
 2. The dealers hand has a greater value than yours at the end of the round
 
-# How Do You Find a Hand’s Total Value?
+**How Do You Find a Hand’s Total Value?**
 Blackjack is played with a conventional deck of 52 playing cards and suits don’t matter.
 
 1. 2 through 10 count at face value, i.e. a 2 counts as two, a 9 counts as nine.
